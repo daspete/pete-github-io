@@ -4,9 +4,9 @@ I help people to build their ideas into reality.
 
 ## Contact me
 
-via mail: daspetemail[at]gmail.com
-via github: [github.com/daspete](https://github.com/daspete)
-via linkedin: [linkedin.com/in/peterbraith](https://www.linkedin.com/in/peterbraith/)
+- via mail: daspetemail[at]gmail.com
+- via github: [github.com/daspete](https://github.com/daspete)
+- via linkedin: [linkedin.com/in/peterbraith](https://www.linkedin.com/in/peterbraith/)
 
 ## My skills
 
